@@ -37,3 +37,6 @@
 				<artifactId>sonar-maven-plugin</artifactId>
 				<version>3.4.0.905</version>
 			</plugin>
+			
+			
+			clean org:jacoco:jacoco-maven-plugin:prpare-agent install
